@@ -1,0 +1,22 @@
+<div class="row"   style="margin: 8px;">
+  <div class="card col-sm-2 bg-dark text-white" *ngFor="let f of fotos" style="margin: 5px;">
+    <img src="{{ f.download_url }}" class="card-img-top" alt="fotos de paisagens" />
+    <div class="card-body">
+      <h5 class="card-title">{{ f.author }}</h5>
+      <p class="card-text">
+        <a href="{{ f.url }}" target="_blank" class="btn btn-info">
+          Visitar
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="container-footer">
+  <footer id="sticky-footer" class="py-5 bg-dark text-white-50">
+    <div class="container text-center text-white bg-dark">
+      <small>Copyright &copy; 2020 Angular-Api - By Laila Roberta</small>
+    </div>
+  </footer>
+</div>
+
