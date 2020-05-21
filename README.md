@@ -1,7 +1,8 @@
 # Opa
 
 Esse projeto foi feito com Angular para fins de estudos e para praticar o que aprendi no curso de Angular(Curso de Loiane).
-É apenas uma página estática que exibe as fotos da api, com um layout do bootstrap e pronto.
+
+É apenas uma página estática que exibe as fotos da api, com um layout do bootstrap.
 
 # Coisas que usei: 
 
