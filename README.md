@@ -13,7 +13,7 @@
 
 - Bootstrap: 4.5.0
 
-### Api de fotos: https://picsum.photos/
+- Api de fotos: https://picsum.photos/
 
 
 #### :purple_heart: By - Laila Roberta ✌.
