@@ -1,8 +1,8 @@
 # Galeria :camera:
 
-#### Esse projeto foi feito com Angular para fins de estudos e para praticar o que aprendi no curso de Angular(Curso de Loiane).
+#### Esse projeto foi feito com Angular para fins de estudos e para praticar o que aprendi no curso de Angular.
 
-##### É apenas uma página estática que exibe as fotos da api, com um layout do bootstrap.
+#### É apenas uma página estática que exibe as fotos da api, com um layout do bootstrap.
 
 # Tecnologias que usei :rocket:  
 
